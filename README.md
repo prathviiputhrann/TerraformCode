@@ -79,12 +79,4 @@ type yes, and it will prompt you for permission or use --auto-approve in the com
 
 This blog contains Three GitHub repository
 
-➡️ [App Code] (https://github.com/chauhan-himani/AppCode)
 
-➡️ [Terraform code] (https://github.com/chauhan-himani/kube_terraform)
-
-➡️ [Manifest Repo] (https://github.com/chauhan-himani/kube_manifest)
-
-If you want to learn how I created this project, please review my blogs. I've shared links to all the blogs above.👆
-
-Thank you so much for reading my blog.
